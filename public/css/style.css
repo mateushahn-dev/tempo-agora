@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(/public/images/sunset-1637376_1920.jpg);
+    background-image: url(../images/sunset-1637376_1920.jpg);
     height: 100vh;
     width: 100vw;
     color: #ffc;
